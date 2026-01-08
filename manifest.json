@@ -10,7 +10,7 @@
   ],
   "web_accessible_resources": [
     {
-      "resources": ["rick.png"],
+      "resources": ["rick-astley.png"],
       "matches": ["<all_urls>"]
     }
   ]

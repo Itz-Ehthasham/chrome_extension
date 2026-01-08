@@ -1,9 +1,12 @@
 function rickrollImages() {
   const imgs = document.querySelectorAll("img");
+  const rickUrl = chrome.runtime.getURL("rick-astley.png");
 
   imgs.forEach(img => {
-    img.src = RICK_IMAGE;
-    img.srcset = ""; 
+    
+    if (img.src === rickUrl) return;
+    img.src = rickUrl;
+    img.srcset = "";
   });
 }
 
