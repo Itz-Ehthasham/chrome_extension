@@ -1,6 +1,6 @@
 🎸 RickRoll YouTube – Chrome Extension
 
-Get Rickrolled… in the most unexpected way.
+Get Rickrolled…  saw on Reddit and decided to make it 
 
 
 
